@@ -1,0 +1,12 @@
+{
+  "curName": "Наименование",
+  "curDate": "Год ввода в эксплуатацию",
+  "curWorth": "Стоимость",
+  "curNumber": "Количество",
+  "newOkofKey": "ID_ОКОФ_новый",
+  "oldOkofKey": "ID_ОКОФ_старый",
+  "molKey": "ID_Мат_ответств",
+  "niiulEquip": "НИ и УЛ оборудование",
+  "ouieoOkofKey": "ID_ОКОФ_ОУиЭО",
+  "curInvNum": "Инвентарный номер"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "eqsy_backend",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Ilya Molostov",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nconf": "^0.10.0",
+    "pg-promise": "^8.5.1"
+  }
+}
